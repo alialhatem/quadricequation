@@ -1,0 +1,2 @@
+serviceClass: qequation.client.GreetingService
+path: C49D611267692DBA20F1A96EF3A26E81.gwt.rpc
